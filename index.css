@@ -1,6 +1,6 @@
 *{
     text-align: center;
-    overflow: hidden;
+    
 }   
 
 .poster {
@@ -28,6 +28,7 @@ nav {
 .block {
     height: 10rem;
     border: 2px solid black;
+    overflow: hidden;
 }
 
 
